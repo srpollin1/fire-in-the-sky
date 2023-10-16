@@ -3,7 +3,7 @@ Este sitio está desarrollado con React Three Fiber, es solo para uso educativo 
 
 MODELO 3D: https://sketchfab.com/3d-models/fire-in-the-sky-06d903f5dc5245699adf38192f77fbb6
 
-![Imagen 1]('https://github.com/srpollin1/fire-in-the-sky/blob/main/preview.gif')
+![Imagen 1](https://github.com/srpollin1/fire-in-the-sky/blob/main/preview.gif)
 
 ## Requisitos: 📝
 
